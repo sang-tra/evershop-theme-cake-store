@@ -1,0 +1,21 @@
+{
+  "system": {
+    "theme": "sweetdreambakery",
+    "extensions": [
+      {
+        "name": "sweetdreambakery_theme",
+        "resolve": "extensions/sweetdreambakery",
+        "enabled": true,
+        "priority": 10
+      }
+    ]
+  },
+  "themeConfig": {
+    "logo": {
+      "alt": "Sweet Dream Bakery",
+      "src": "/logo.png",
+      "width": 182,
+      "height": 48
+    }
+  }
+}

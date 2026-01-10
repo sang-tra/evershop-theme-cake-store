@@ -1,0 +1,1121 @@
+[
+  {
+    "type": "simple",
+    "visibility": true,
+    "status": true,
+    "sku": "CAKE-001-VAN-6",
+    "name": "Classic Vanilla Birthday Cake - 6 inch",
+    "url_key": "classic-vanilla-birthday-cake-6-inch",
+    "price": 35,
+    "weight": 800,
+    "meta_title": "Classic Vanilla Birthday Cake - 6 inch",
+    "meta_description": "Delicious homemade classic vanilla birthday cake, perfect for small gatherings",
+    "meta_keywords": "birthday cake, vanilla cake, celebration, homemade",
+    "description": [
+      {
+        "id": "r__cake_vanilla_6",
+        "columns": [
+          {
+            "size": 1,
+            "id": "c__cake_vanilla_6",
+            "data": {
+              "time": 1729900000000,
+              "blocks": [
+                {
+                  "id": "cake_vanilla_p1",
+                  "type": "paragraph",
+                  "data": {
+                    "text": "Celebrate in style with our Classic Vanilla Birthday Cake. Made with premium ingredients and fresh buttercream frosting, this 6-inch cake serves 6-8 guests."
+                  }
+                },
+                {
+                  "id": "cake_vanilla_p2",
+                  "type": "paragraph",
+                  "data": {
+                    "text": "Perfect for intimate gatherings and small celebrations. Each cake is freshly baked and decorated with love."
+                  }
+                }
+              ],
+              "version": "2.31.0"
+            }
+          }
+        ],
+        "size": 1,
+        "className": "md:grid-cols-1"
+      }
+    ],
+    "qty": 50,
+    "manage_stock": true,
+    "stock_availability": true,
+    "collections": ["homepage"],
+    "category": "cakes",
+    "variant_group": "classic-vanilla-birthday-cake",
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/db6oysgka/image/upload/v1763103390/Gemini_Generated_Image_4my1yj4my1yj4my1_nd5rbb.png",
+        "isMain": true
+      },
+      {
+        "url": "https://res.cloudinary.com/db6oysgka/image/upload/v1763103390/Gemini_Generated_Image_b91y9nb91y9nb91y_etfdni.png",
+        "isMain": false
+      }
+    ],
+    "attributes": [
+      {
+        "attribute_code": "size",
+        "value": "6 inch (Serves 6-8)"
+      },
+      {
+        "attribute_code": "flavor",
+        "value": "Vanilla"
+      }
+    ]
+  },
+  {
+    "type": "simple",
+    "visibility": true,
+    "status": true,
+    "sku": "CAKE-001-VAN-8",
+    "name": "Classic Vanilla Birthday Cake - 8 inch",
+    "url_key": "classic-vanilla-birthday-cake-8-inch",
+    "price": 35,
+    "weight": 800,
+    "meta_title": "Classic Vanilla Birthday Cake - 8 inch",
+    "meta_description": "Delicious homemade classic vanilla birthday cake, perfect for small gatherings",
+    "meta_keywords": "birthday cake, vanilla cake, celebration, homemade",
+    "description": [
+      {
+        "id": "r__cake_vanilla_6",
+        "columns": [
+          {
+            "size": 1,
+            "id": "c__cake_vanilla_6",
+            "data": {
+              "time": 1729900000000,
+              "blocks": [
+                {
+                  "id": "cake_vanilla_p1",
+                  "type": "paragraph",
+                  "data": {
+                    "text": "Celebrate in style with our Classic Vanilla Birthday Cake. Made with premium ingredients and fresh buttercream frosting, this 8-inch cake serves 6-8 guests."
+                  }
+                },
+                {
+                  "id": "cake_vanilla_p2",
+                  "type": "paragraph",
+                  "data": {
+                    "text": "Perfect for intimate gatherings and small celebrations. Each cake is freshly baked and decorated with love."
+                  }
+                }
+              ],
+              "version": "2.31.0"
+            }
+          }
+        ],
+        "size": 1,
+        "className": "md:grid-cols-1"
+      }
+    ],
+    "qty": 50,
+    "manage_stock": true,
+    "stock_availability": true,
+    "collections": ["homepage"],
+    "category": "cakes",
+    "variant_group": "classic-vanilla-birthday-cake",
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/db6oysgka/image/upload/v1763103390/Gemini_Generated_Image_4my1yj4my1yj4my1_nd5rbb.png",
+        "isMain": true
+      },
+      {
+        "url": "https://res.cloudinary.com/db6oysgka/image/upload/v1763103390/Gemini_Generated_Image_b91y9nb91y9nb91y_etfdni.png",
+        "isMain": false
+      }
+    ],
+    "attributes": [
+      {
+        "attribute_code": "size",
+        "value": "8 inch (Serves 10-12)"
+      },
+      {
+        "attribute_code": "flavor",
+        "value": "Vanilla"
+      }
+    ]
+  },
+  {
+    "type": "simple",
+    "visibility": true,
+    "status": true,
+    "sku": "CAKE-001-CHO-6",
+    "name": "Classic Vanilla Birthday Cake - 6 inch Chocolate",
+    "url_key": "classic-vanilla-birthday-cake-6-inch-chocolate",
+    "price": 35,
+    "weight": 800,
+    "meta_title": "Classic Vanilla Birthday Cake - 6 inch Chocolate",
+    "meta_description": "Delicious homemade classic vanilla birthday cake with chocolate, perfect for small gatherings",
+    "meta_keywords": "birthday cake, vanilla cake, chocolate, celebration, homemade",
+    "description": [
+      {
+        "id": "r__cake_vanilla_choc_6",
+        "columns": [
+          {
+            "size": 1,
+            "id": "c__cake_vanilla_choc_6",
+            "data": {
+              "time": 1729900000000,
+              "blocks": [
+                {
+                  "id": "cake_vanilla_choc_p1",
+                  "type": "paragraph",
+                  "data": {
+                    "text": "Celebrate in style with our Classic Vanilla Birthday Cake with a chocolate twist. Made with premium ingredients and rich chocolate frosting, this 6-inch cake serves 6-8 guests."
+                  }
+                }
+              ],
+              "version": "2.31.0"
+            }
+          }
+        ],
+        "size": 1,
+        "className": "md:grid-cols-1"
+      }
+    ],
+    "qty": 50,
+    "manage_stock": true,
+    "stock_availability": true,
+    "collections": ["homepage"],
+    "category": "cakes",
+    "variant_group": "classic-vanilla-birthday-cake",
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/db6oysgka/image/upload/v1763103391/Gemini_Generated_Image_klm9v8klm9v8klm9_wicuej.png",
+        "isMain": true
+      },
+      {
+        "url": "https://res.cloudinary.com/db6oysgka/image/upload/v1763103391/Gemini_Generated_Image_pbg6l4pbg6l4pbg6_erenkj.png",
+        "isMain": false
+      }
+    ],
+    "attributes": [
+      {
+        "attribute_code": "size",
+        "value": "6 inch (Serves 6-8)"
+      },
+      {
+        "attribute_code": "flavor",
+        "value": "Chocolate"
+      }
+    ]
+  },
+  {
+    "type": "simple",
+    "visibility": true,
+    "status": true,
+    "sku": "CAKE-001-CHO-8",
+    "name": "Classic Vanilla Birthday Cake - 8 inch Chocolate",
+    "url_key": "classic-vanilla-birthday-cake-8-inch-chocolate",
+    "price": 35,
+    "weight": 800,
+    "meta_title": "Classic Vanilla Birthday Cake - 8 inch Chocolate",
+    "meta_description": "Delicious homemade classic vanilla birthday cake with chocolate, perfect for small gatherings",
+    "meta_keywords": "birthday cake, vanilla cake, chocolate, celebration, homemade",
+    "description": [
+      {
+        "id": "r__cake_vanilla_choc_8",
+        "columns": [
+          {
+            "size": 1,
+            "id": "c__cake_vanilla_choc_8",
+            "data": {
+              "time": 1729900000000,
+              "blocks": [
+                {
+                  "id": "cake_vanilla_choc_p1",
+                  "type": "paragraph",
+                  "data": {
+                    "text": "Celebrate in style with our Classic Vanilla Birthday Cake with a chocolate twist. Made with premium ingredients and rich chocolate frosting, this 6-inch cake serves 6-8 guests."
+                  }
+                }
+              ],
+              "version": "2.31.0"
+            }
+          }
+        ],
+        "size": 1,
+        "className": "md:grid-cols-1"
+      }
+    ],
+    "qty": 50,
+    "manage_stock": true,
+    "stock_availability": true,
+    "collections": ["homepage"],
+    "category": "cakes",
+    "variant_group": "classic-vanilla-birthday-cake",
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/db6oysgka/image/upload/v1763103391/Gemini_Generated_Image_klm9v8klm9v8klm9_wicuej.png",
+        "isMain": true
+      },
+      {
+        "url": "https://res.cloudinary.com/db6oysgka/image/upload/v1763103391/Gemini_Generated_Image_pbg6l4pbg6l4pbg6_erenkj.png",
+        "isMain": false
+      }
+    ],
+    "attributes": [
+      {
+        "attribute_code": "size",
+        "value": "8 inch (Serves 10-12)"
+      },
+      {
+        "attribute_code": "flavor",
+        "value": "Chocolate"
+      }
+    ]
+  },
+  {
+    "type": "simple",
+    "visibility": true,
+    "status": true,
+    "sku": "CAKE-002-VAN-8",
+    "name": "Elegant Red Velvet Cake - 8 inch",
+    "url_key": "elegant-red-velvet-cake-8-inch",
+    "price": 48,
+    "weight": 1200,
+    "meta_title": "Elegant Red Velvet Cake - 8 inch",
+    "meta_description": "Rich and elegant red velvet birthday cake, serves 10-12 guests",
+    "meta_keywords": "birthday cake, red velvet, elegant, celebration",
+    "description": [
+      {
+        "id": "r__cake_redvelvet_8",
+        "columns": [
+          {
+            "size": 1,
+            "id": "c__cake_redvelvet_8",
+            "data": {
+              "time": 1729900000000,
+              "blocks": [
+                {
+                  "id": "cake_redvelvet_p1",
+                  "type": "paragraph",
+                  "data": {
+                    "text": "Impress your guests with our Elegant Red Velvet Cake. This stunning 8-inch cake features velvety red sponge with cream cheese frosting, serves 10-12 guests."
+                  }
+                }
+              ],
+              "version": "2.31.0"
+            }
+          }
+        ],
+        "size": 1,
+        "className": "md:grid-cols-1"
+      }
+    ],
+    "qty": 40,
+    "manage_stock": true,
+    "stock_availability": true,
+    "collections": ["homepage"],
+    "category": "cakes",
+    "variant_group": "elegant-red-velvet-cake",
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/db6oysgka/image/upload/v1763104296/234c1383-ca62-4dbe-8b11-1d8dc3b3d736.png",
+        "isMain": true
+      },
+      {
+        "url": "https://res.cloudinary.com/db6oysgka/image/upload/v1763104317/5ba153fc-d062-4e5f-b94f-4a5960ddfb25.png",
+        "isMain": false
+      }
+    ],
+    "attributes": [
+      {
+        "attribute_code": "size",
+        "value": "8 inch (Serves 10-12)"
+      },
+      {
+        "attribute_code": "flavor",
+        "value": "Red Velvet"
+      }
+    ]
+  },
+  {
+    "type": "simple",
+    "visibility": true,
+    "status": true,
+    "sku": "CAKE-002-VAN-6",
+    "name": "Elegant Red Velvet Cake - 6 inch",
+    "url_key": "elegant-red-velvet-cake-6-inch",
+    "price": 48,
+    "weight": 1200,
+    "meta_title": "Elegant Red Velvet Cake - 6 inch",
+    "meta_description": "Rich and elegant red velvet birthday cake, serves 6-8 guests",
+    "meta_keywords": "birthday cake, red velvet, elegant, celebration",
+    "description": [
+      {
+        "id": "r__cake_redvelvet_6",
+        "columns": [
+          {
+            "size": 1,
+            "id": "c__cake_redvelvet_6",
+            "data": {
+              "time": 1729900000000,
+              "blocks": [
+                {
+                  "id": "cake_redvelvet_p1",
+                  "type": "paragraph",
+                  "data": {
+                    "text": "Impress your guests with our Elegant Red Velvet Cake. This stunning 8-inch cake features velvety red sponge with cream cheese frosting, serves 10-12 guests."
+                  }
+                }
+              ],
+              "version": "2.31.0"
+            }
+          }
+        ],
+        "size": 1,
+        "className": "md:grid-cols-1"
+      }
+    ],
+    "qty": 40,
+    "manage_stock": true,
+    "stock_availability": true,
+    "collections": ["homepage"],
+    "category": "cakes",
+    "variant_group": "elegant-red-velvet-cake",
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/db6oysgka/image/upload/v1763104296/234c1383-ca62-4dbe-8b11-1d8dc3b3d736.png",
+        "isMain": true
+      },
+      {
+        "url": "https://res.cloudinary.com/db6oysgka/image/upload/v1763104317/5ba153fc-d062-4e5f-b94f-4a5960ddfb25.png",
+        "isMain": false
+      }
+    ],
+    "attributes": [
+      {
+        "attribute_code": "size",
+        "value": "6 inch (Serves 6-8)"
+      },
+      {
+        "attribute_code": "flavor",
+        "value": "Red Velvet"
+      }
+    ]
+  },
+  {
+    "type": "simple",
+    "visibility": true,
+    "status": true,
+    "sku": "CAKE-002-STR-8",
+    "name": "Elegant Red Velvet Cake - 8 inch Strawberry",
+    "url_key": "elegant-red-velvet-cake-8-inch-strawberry",
+    "price": 48,
+    "weight": 1200,
+    "meta_title": "Elegant Red Velvet Cake - 8 inch Strawberry",
+    "meta_description": "Rich and elegant red velvet birthday cake with strawberry, serves 10-12 guests",
+    "meta_keywords": "birthday cake, red velvet, strawberry, elegant, celebration",
+    "description": [
+      {
+        "id": "r__cake_redvelvet_str_8",
+        "columns": [
+          {
+            "size": 1,
+            "id": "c__cake_redvelvet_str_8",
+            "data": {
+              "time": 1729900000000,
+              "blocks": [
+                {
+                  "id": "cake_redvelvet_str_p1",
+                  "type": "paragraph",
+                  "data": {
+                    "text": "Impress your guests with our Elegant Red Velvet Cake with strawberry frosting. This stunning 8-inch cake serves 10-12 guests."
+                  }
+                }
+              ],
+              "version": "2.31.0"
+            }
+          }
+        ],
+        "size": 1,
+        "className": "md:grid-cols-1"
+      }
+    ],
+    "qty": 40,
+    "manage_stock": true,
+    "stock_availability": true,
+    "collections": ["homepage"],
+    "category": "cakes",
+    "variant_group": "elegant-red-velvet-cake",
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/db6oysgka/image/upload/v1763104600/33c4f7ce-dfee-4fff-a5f3-acf06f2744bb.png",
+        "isMain": true
+      },
+      {
+        "url": "https://res.cloudinary.com/db6oysgka/image/upload/v1763104317/5ba153fc-d062-4e5f-b94f-4a5960ddfb25.png",
+        "isMain": false
+      }
+    ],
+    "attributes": [
+      {
+        "attribute_code": "size",
+        "value": "8 inch (Serves 10-12)"
+      },
+      {
+        "attribute_code": "flavor",
+        "value": "Strawberry"
+      }
+    ]
+  },
+  {
+    "type": "simple",
+    "visibility": true,
+    "status": true,
+    "sku": "CAKE-002-STR-6",
+    "name": "Elegant Red Velvet Cake - 6 inch Strawberry",
+    "url_key": "elegant-red-velvet-cake-6-inch-strawberry",
+    "price": 48,
+    "weight": 1200,
+    "meta_title": "Elegant Red Velvet Cake - 6 inch Strawberry",
+    "meta_description": "Rich and elegant red velvet birthday cake with strawberry, serves 6-8 guests",
+    "meta_keywords": "birthday cake, red velvet, strawberry, elegant, celebration",
+    "description": [
+      {
+        "id": "r__cake_redvelvet_str_6",
+        "columns": [
+          {
+            "size": 1,
+            "id": "c__cake_redvelvet_str_6",
+            "data": {
+              "time": 1729900000000,
+              "blocks": [
+                {
+                  "id": "cake_redvelvet_str_p1",
+                  "type": "paragraph",
+                  "data": {
+                    "text": "Impress your guests with our Elegant Red Velvet Cake with strawberry frosting. This stunning 6-inch cake serves 6-8 guests."
+                  }
+                }
+              ],
+              "version": "2.31.0"
+            }
+          }
+        ],
+        "size": 1,
+        "className": "md:grid-cols-1"
+      }
+    ],
+    "qty": 40,
+    "manage_stock": true,
+    "stock_availability": true,
+    "collections": ["homepage"],
+    "category": "cakes",
+    "variant_group": "elegant-red-velvet-cake",
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/db6oysgka/image/upload/v1763104600/33c4f7ce-dfee-4fff-a5f3-acf06f2744bb.png",
+        "isMain": true
+      },
+      {
+        "url": "https://res.cloudinary.com/db6oysgka/image/upload/v1763104317/5ba153fc-d062-4e5f-b94f-4a5960ddfb25.png",
+        "isMain": false
+      }
+    ],
+    "attributes": [
+      {
+        "attribute_code": "size",
+        "value": "6 inch (Serves 6-8)"
+      },
+      {
+        "attribute_code": "flavor",
+        "value": "Strawberry"
+      }
+    ]
+  },
+  {
+    "type": "simple",
+    "visibility": true,
+    "status": true,
+    "sku": "CAKE-003-LEM-6",
+    "name": "Decadent Chocolate Cake - 6 inch Lemon",
+    "url_key": "decadent-chocolate-cake-6-inch-lemon",
+    "price": 36,
+    "weight": 800,
+    "meta_title": "Decadent Chocolate Cake - 6 inch Lemon",
+    "meta_description": "Rich and decadent chocolate birthday cake with lemon, serves 6-8 guests",
+    "meta_keywords": "birthday cake, chocolate cake, lemon, decadent, celebration",
+    "description": [
+      {
+        "id": "r__cake_choc_lem_6",
+        "columns": [
+          {
+            "size": 1,
+            "id": "c__cake_choc_lem_6",
+            "data": {
+              "time": 1729900000000,
+              "blocks": [
+                {
+                  "id": "cake_choc_lem_p1",
+                  "type": "paragraph",
+                  "data": {
+                    "text": "Indulge in our Decadent Chocolate Cake with a zesty lemon twist. This 6-inch chocolate cake serves 6-8 guests."
+                  }
+                }
+              ],
+              "version": "2.31.0"
+            }
+          }
+        ],
+        "size": 1,
+        "className": "md:grid-cols-1"
+      }
+    ],
+    "qty": 50,
+    "manage_stock": true,
+    "stock_availability": true,
+    "collections": ["homepage"],
+    "category": "cakes",
+    "variant_group": "decadent-chocolate-cake",
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/db6oysgka/image/upload/v1763105299/9bf301b1-9b92-4930-bedc-bbb504ba08b6.png",
+        "isMain": true
+      },
+      {
+        "url": "https://res.cloudinary.com/db6oysgka/image/upload/v1763105412/bd6c165a-6098-477f-9f1e-14f1aa37857e.png",
+        "isMain": false
+      }
+    ],
+    "attributes": [
+      {
+        "attribute_code": "size",
+        "value": "6 inch (Serves 6-8)"
+      },
+      {
+        "attribute_code": "flavor",
+        "value": "Lemon"
+      }
+    ]
+  },
+  {
+    "type": "simple",
+    "visibility": true,
+    "status": true,
+    "sku": "CAKE-003-LEM-8",
+    "name": "Decadent Chocolate Cake - 8 inch Lemon",
+    "url_key": "decadent-chocolate-cake-8-inch-lemon",
+    "price": 36,
+    "weight": 800,
+    "meta_title": "Decadent Chocolate Cake - 8 inch Lemon",
+    "meta_description": "Rich and decadent chocolate birthday cake with lemon, serves 8-10 guests",
+    "meta_keywords": "birthday cake, chocolate cake, lemon, decadent, celebration",
+    "description": [
+      {
+        "id": "r__cake_choc_lem_6",
+        "columns": [
+          {
+            "size": 1,
+            "id": "c__cake_choc_lem_6",
+            "data": {
+              "time": 1729900000000,
+              "blocks": [
+                {
+                  "id": "cake_choc_lem_p1",
+                  "type": "paragraph",
+                  "data": {
+                    "text": "Indulge in our Decadent Chocolate Cake with a zesty lemon twist. This 6-inch chocolate cake serves 6-8 guests."
+                  }
+                }
+              ],
+              "version": "2.31.0"
+            }
+          }
+        ],
+        "size": 1,
+        "className": "md:grid-cols-1"
+      }
+    ],
+    "qty": 50,
+    "manage_stock": true,
+    "stock_availability": true,
+    "collections": ["homepage"],
+    "category": "cakes",
+    "variant_group": "decadent-chocolate-cake",
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/db6oysgka/image/upload/v1763105299/9bf301b1-9b92-4930-bedc-bbb504ba08b6.png",
+        "isMain": true
+      },
+      {
+        "url": "https://res.cloudinary.com/db6oysgka/image/upload/v1763105412/bd6c165a-6098-477f-9f1e-14f1aa37857e.png",
+        "isMain": false
+      }
+    ],
+    "attributes": [
+      {
+        "attribute_code": "size",
+        "value": "8 inch (Serves 10-12)"
+      },
+      {
+        "attribute_code": "flavor",
+        "value": "Lemon"
+      }
+    ]
+  },
+  {
+    "type": "simple",
+    "visibility": true,
+    "status": true,
+    "sku": "CAKE-003-CHO-8",
+    "name": "Decadent Chocolate Cake - 8 inch Chocolate",
+    "url_key": "decadent-chocolate-cake-8-inch-chocolate",
+    "price": 36,
+    "weight": 800,
+    "meta_title": "Decadent Chocolate Cake - 8 inch Chocolate",
+    "meta_description": "Rich and decadent chocolate birthday cake with chocolate, serves 8-10 guests",
+    "meta_keywords": "birthday cake, chocolate cake, chocolate, decadent, celebration",
+    "description": [
+      {
+        "id": "r__cake_choc_lem_6",
+        "columns": [
+          {
+            "size": 1,
+            "id": "c__cake_choc_lem_6",
+            "data": {
+              "time": 1729900000000,
+              "blocks": [
+                {
+                  "id": "cake_choc_lem_p1",
+                  "type": "paragraph",
+                  "data": {
+                    "text": "Indulge in our Decadent Chocolate Cake with a zesty lemon twist. This 6-inch chocolate cake serves 6-8 guests."
+                  }
+                }
+              ],
+              "version": "2.31.0"
+            }
+          }
+        ],
+        "size": 1,
+        "className": "md:grid-cols-1"
+      }
+    ],
+    "qty": 50,
+    "manage_stock": true,
+    "stock_availability": true,
+    "collections": ["homepage"],
+    "category": "cakes",
+    "variant_group": "decadent-chocolate-cake",
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/db6oysgka/image/upload/v1763104818/61b4a527-ce86-4582-9714-69958b32191c.png",
+        "isMain": true
+      },
+      {
+        "url": "https://res.cloudinary.com/db6oysgka/image/upload/v1763104828/4a63b9fc-64e0-4c1a-bbba-f6db8389879a.png",
+        "isMain": false
+      }
+    ],
+    "attributes": [
+      {
+        "attribute_code": "size",
+        "value": "8 inch (Serves 10-12)"
+      },
+      {
+        "attribute_code": "flavor",
+        "value": "Chocolate"
+      }
+    ]
+  },
+  {
+    "type": "simple",
+    "visibility": true,
+    "status": true,
+    "sku": "CAKE-004-CAR-8",
+    "name": "Moist Carrot Cake - 8 inch",
+    "url_key": "moist-carrot-cake-8-inch",
+    "price": 46,
+    "weight": 1200,
+    "meta_title": "Moist Carrot Cake - 8 inch",
+    "meta_description": "Classic moist carrot birthday cake with cream cheese frosting, serves 10-12",
+    "meta_keywords": "birthday cake, carrot cake, cream cheese, celebration",
+    "description": [
+      {
+        "id": "r__cake_carrot_8",
+        "columns": [
+          {
+            "size": 1,
+            "id": "c__cake_carrot_8",
+            "data": {
+              "time": 1729900000000,
+              "blocks": [
+                {
+                  "id": "cake_carrot_p1",
+                  "type": "paragraph",
+                  "data": {
+                    "text": "Enjoy our Moist Carrot Cake, a classic favorite. This 8-inch cake with cream cheese frosting serves 10-12 guests."
+                  }
+                }
+              ],
+              "version": "2.31.0"
+            }
+          }
+        ],
+        "size": 1,
+        "className": "md:grid-cols-1"
+      }
+    ],
+    "qty": 40,
+    "manage_stock": true,
+    "stock_availability": true,
+    "collections": ["homepage"],
+    "category": "cakes",
+    "variant_group": "moist-carrot-cake",
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/db6oysgka/image/upload/v1763105673/9ab5f9c4-ef0f-4ca4-b96a-6cdebb357537.png",
+        "isMain": true
+      },
+      {
+        "url": "https://res.cloudinary.com/db6oysgka/image/upload/v1763105661/d867e8fe-69c4-42f3-bec7-78405d130858.png",
+        "isMain": false
+      }
+    ],
+    "attributes": [
+      {
+        "attribute_code": "size",
+        "value": "8 inch (Serves 10-12)"
+      },
+      {
+        "attribute_code": "flavor",
+        "value": "Carrot"
+      }
+    ]
+  },
+  {
+    "type": "simple",
+    "visibility": true,
+    "status": true,
+    "sku": "CAKE-004-CAR-6",
+    "name": "Moist Carrot Cake - 6 inch",
+    "url_key": "moist-carrot-cake-6-inch",
+    "price": 46,
+    "weight": 1200,
+    "meta_title": "Moist Carrot Cake - 6 inch",
+    "meta_description": "Classic moist carrot birthday cake with cream cheese frosting, serves 6-8",
+    "meta_keywords": "birthday cake, carrot cake, cream cheese, celebration",
+    "description": [
+      {
+        "id": "r__cake_carrot_8",
+        "columns": [
+          {
+            "size": 1,
+            "id": "c__cake_carrot_8",
+            "data": {
+              "time": 1729900000000,
+              "blocks": [
+                {
+                  "id": "cake_carrot_p1",
+                  "type": "paragraph",
+                  "data": {
+                    "text": "Enjoy our Moist Carrot Cake, a classic favorite. This 6-inch cake with cream cheese frosting serves 6-8 guests."
+                  }
+                }
+              ],
+              "version": "2.31.0"
+            }
+          }
+        ],
+        "size": 1,
+        "className": "md:grid-cols-1"
+      }
+    ],
+    "qty": 40,
+    "manage_stock": true,
+    "stock_availability": true,
+    "collections": ["homepage"],
+    "category": "cakes",
+    "variant_group": "moist-carrot-cake",
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/db6oysgka/image/upload/v1763105673/9ab5f9c4-ef0f-4ca4-b96a-6cdebb357537.png",
+        "isMain": true
+      },
+      {
+        "url": "https://res.cloudinary.com/db6oysgka/image/upload/v1763105661/d867e8fe-69c4-42f3-bec7-78405d130858.png",
+        "isMain": false
+      }
+    ],
+    "attributes": [
+      {
+        "attribute_code": "size",
+        "value": "6 inch (Serves 6-8)"
+      },
+      {
+        "attribute_code": "flavor",
+        "value": "Carrot"
+      }
+    ]
+  },
+  {
+    "type": "simple",
+    "visibility": true,
+    "status": true,
+    "sku": "CAKE-004-COC-8",
+    "name": "Moist Carrot Cake - 8 inch Coconut",
+    "url_key": "moist-carrot-cake-8-inch-coconut",
+    "price": 46,
+    "weight": 1200,
+    "meta_title": "Moist Carrot Cake - 8 inch Coconut",
+    "meta_description": "Classic moist carrot birthday cake with coconut frosting, serves 10-12",
+    "meta_keywords": "birthday cake, carrot cake, coconut, celebration",
+    "description": [
+      {
+        "id": "r__cake_carrot_coc_8",
+        "columns": [
+          {
+            "size": 1,
+            "id": "c__cake_carrot_coc_8",
+            "data": {
+              "time": 1729900000000,
+              "blocks": [
+                {
+                  "id": "cake_carrot_coc_p1",
+                  "type": "paragraph",
+                  "data": {
+                    "text": "Enjoy our Moist Carrot Cake with coconut frosting, a tropical twist on a classic. This 8-inch cake serves 10-12 guests."
+                  }
+                }
+              ],
+              "version": "2.31.0"
+            }
+          }
+        ],
+        "size": 1,
+        "className": "md:grid-cols-1"
+      }
+    ],
+    "qty": 40,
+    "manage_stock": true,
+    "stock_availability": true,
+    "collections": ["homepage"],
+    "category": "cakes",
+    "variant_group": "moist-carrot-cake",
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/db6oysgka/image/upload/v1763105856/1c3f55cc-9f51-454d-b619-da95b66c60b0.png",
+        "isMain": true
+      },
+      {
+        "url": "https://res.cloudinary.com/db6oysgka/image/upload/v1763105930/15e15727-53e1-4c70-8a74-998add553e13.png",
+        "isMain": false
+      }
+    ],
+    "attributes": [
+      {
+        "attribute_code": "size",
+        "value": "8 inch (Serves 10-12)"
+      },
+      {
+        "attribute_code": "flavor",
+        "value": "Coconut"
+      }
+    ]
+  },
+  {
+    "type": "simple",
+    "visibility": true,
+    "status": true,
+    "sku": "CAKE-004-COC-6",
+    "name": "Moist Carrot Cake - 6 inch Coconut",
+    "url_key": "moist-carrot-cake-6-inch-coconut",
+    "price": 46,
+    "weight": 1200,
+    "meta_title": "Moist Carrot Cake - 6 inch Coconut",
+    "meta_description": "Classic moist carrot birthday cake with coconut frosting, serves 6-8",
+    "meta_keywords": "birthday cake, carrot cake, coconut, celebration",
+    "description": [
+      {
+        "id": "r__cake_carrot_coc_8",
+        "columns": [
+          {
+            "size": 1,
+            "id": "c__cake_carrot_coc_8",
+            "data": {
+              "time": 1729900000000,
+              "blocks": [
+                {
+                  "id": "cake_carrot_coc_p1",
+                  "type": "paragraph",
+                  "data": {
+                    "text": "Enjoy our Moist Carrot Cake with coconut frosting, a tropical twist on a classic. This 8-inch cake serves 10-12 guests."
+                  }
+                }
+              ],
+              "version": "2.31.0"
+            }
+          }
+        ],
+        "size": 1,
+        "className": "md:grid-cols-1"
+      }
+    ],
+    "qty": 40,
+    "manage_stock": true,
+    "stock_availability": true,
+    "collections": ["homepage"],
+    "category": "cakes",
+    "variant_group": "moist-carrot-cake",
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/db6oysgka/image/upload/v1763105856/1c3f55cc-9f51-454d-b619-da95b66c60b0.png",
+        "isMain": true
+      },
+      {
+        "url": "https://res.cloudinary.com/db6oysgka/image/upload/v1763105930/15e15727-53e1-4c70-8a74-998add553e13.png",
+        "isMain": false
+      }
+    ],
+    "attributes": [
+      {
+        "attribute_code": "size",
+        "value": "6 inch (Serves 6-8)"
+      },
+      {
+        "attribute_code": "flavor",
+        "value": "Coconut"
+      }
+    ]
+  },
+  {
+    "type": "simple",
+    "visibility": true,
+    "status": true,
+    "sku": "CAKE-005-MAR-10",
+    "name": "Premium Marble Cake - 10 inch",
+    "url_key": "premium-marble-cake-10-inch",
+    "price": 58,
+    "weight": 1600,
+    "meta_title": "Premium Marble Cake - 10 inch",
+    "meta_description": "Beautiful marble birthday cake, serves 16-20 guests",
+    "meta_keywords": "birthday cake, marble cake, premium, celebration",
+    "description": [
+      {
+        "id": "r__cake_marble_10",
+        "columns": [
+          {
+            "size": 1,
+            "id": "c__cake_marble_10",
+            "data": {
+              "time": 1729900000000,
+              "blocks": [
+                {
+                  "id": "cake_marble_p1",
+                  "type": "paragraph",
+                  "data": {
+                    "text": "Wow your guests with our Premium Marble Cake. This beautiful 10-inch cake with swirled chocolate and vanilla serves 16-20 guests."
+                  }
+                }
+              ],
+              "version": "2.31.0"
+            }
+          }
+        ],
+        "size": 1,
+        "className": "md:grid-cols-1"
+      }
+    ],
+    "qty": 30,
+    "manage_stock": true,
+    "stock_availability": true,
+    "collections": ["homepage"],
+    "category": "cakes",
+    "variant_group": "premium-marble-cake",
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/db6oysgka/image/upload/v1763106213/8da5fdc1-b5e1-401c-b34b-6f55f424a73e.png",
+        "isMain": true
+      },
+      {
+        "url": "https://res.cloudinary.com/db6oysgka/image/upload/v1763106268/3c0b873c-a15e-4b95-9b78-482511c4958a.png",
+        "isMain": false
+      }
+    ],
+    "attributes": [
+      {
+        "attribute_code": "size",
+        "value": "10 inch (Serves 16-20)"
+      },
+      {
+        "attribute_code": "flavor",
+        "value": "Marble"
+      }
+    ]
+  },
+  {
+    "type": "simple",
+    "visibility": true,
+    "status": true,
+    "sku": "CAKE-005-FUN-8",
+    "name": "Premium Marble Cake - 8 inch Funfetti",
+    "url_key": "premium-marble-cake-8-inch-funfetti",
+    "price": 58,
+    "weight": 1600,
+    "meta_title": "Premium Marble Cake - 8 inch Funfetti",
+    "meta_description": "Beautiful marble birthday cake with funfetti, serves 10-12 guests",
+    "meta_keywords": "birthday cake, marble cake, funfetti, premium, celebration",
+    "description": [
+      {
+        "id": "r__cake_marble_fun_10",
+        "columns": [
+          {
+            "size": 1,
+            "id": "c__cake_marble_fun_10",
+            "data": {
+              "time": 1729900000000,
+              "blocks": [
+                {
+                  "id": "cake_marble_fun_p1",
+                  "type": "paragraph",
+                  "data": {
+                    "text": "Wow your guests with our Premium Marble Cake with colorful funfetti. This beautiful 8-inch cake serves 10-12 guests."
+                  }
+                }
+              ],
+              "version": "2.31.0"
+            }
+          }
+        ],
+        "size": 1,
+        "className": "md:grid-cols-1"
+      }
+    ],
+    "qty": 30,
+    "manage_stock": true,
+    "stock_availability": true,
+    "collections": ["homepage"],
+    "category": "cakes",
+    "variant_group": "premium-marble-cake",
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/db6oysgka/image/upload/v1763106213/8da5fdc1-b5e1-401c-b34b-6f55f424a73e.png",
+        "isMain": true
+      },
+      {
+        "url": "https://res.cloudinary.com/db6oysgka/image/upload/v1763106268/3c0b873c-a15e-4b95-9b78-482511c4958a.png",
+        "isMain": false
+      }
+    ],
+    "attributes": [
+      {
+        "attribute_code": "size",
+        "value": "8 inch (Serves 10-12)"
+      },
+      {
+        "attribute_code": "flavor",
+        "value": "Marble"
+      }
+    ]
+  }
+]

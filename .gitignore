@@ -1,0 +1,5 @@
+.env
+.evershop
+**/dist
+media
+node_modules

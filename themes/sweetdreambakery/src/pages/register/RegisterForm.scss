@@ -1,0 +1,25 @@
+main.content {
+  @apply bg-gradient-to-br from-pink-50 to-orange-50;
+}
+
+#registerForm {
+  button.button {
+    width: 100%;
+    border-radius: 0.5rem;
+    span {
+      text-transform: capitalize !important;
+      font-weight: 400;
+    }
+  }
+  .terms-and-conditions {
+    margin-bottom: 1rem;
+    .required-indicator {
+      display: none;
+    }
+    .checkbox-item {
+      display: flex;
+      gap: 0.5rem;
+      align-items: center;
+    }
+  }
+}

@@ -1,0 +1,43 @@
+[
+  {
+    "attribute_code": "size",
+    "attribute_name": "Size",
+    "type": "select",
+    "is_required": 1,
+    "display_on_frontend": 1,
+    "sort_order": 10,
+    "is_filterable": 1,
+    "groups": [],
+    "options": [
+      { "option_text": "6 inch (Serves 6-8)" },
+      { "option_text": "8 inch (Serves 10-12)" },
+      { "option_text": "10 inch (Serves 16-20)" },
+      { "option_text": "12 inch (Serves 25-30)" },
+      { "option_text": "Quarter Sheet (Serves 20-25)" },
+      { "option_text": "Half Sheet (Serves 40-50)" },
+      { "option_text": "Full Sheet (Serves 80-100)" }
+    ]
+  },
+  {
+    "attribute_code": "flavor",
+    "attribute_name": "Flavor",
+    "type": "select",
+    "is_required": 1,
+    "display_on_frontend": 1,
+    "sort_order": 20,
+    "is_filterable": 1,
+    "groups": [],
+    "options": [
+      { "option_text": "Vanilla" },
+      { "option_text": "Chocolate" },
+      { "option_text": "Red Velvet" },
+      { "option_text": "Carrot" },
+      { "option_text": "Lemon" },
+      { "option_text": "Strawberry" },
+      { "option_text": "Coconut" },
+      { "option_text": "Marble" },
+      { "option_text": "Funfetti" },
+      { "option_text": "Coffee" }
+    ]
+  }
+]

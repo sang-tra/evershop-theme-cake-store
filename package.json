@@ -1,0 +1,25 @@
+{
+  "name": "cake",
+  "version": "1.2.2",
+  "dependencies": {
+    "@evershop/evershop": "2.1.0",
+    "tsx": "^4.19.3",
+    "typescript": "^5.8.3"
+  },
+  "devDependencies": {
+    "esbuild": "^0.20.1"
+  },
+  "workspaces": [
+    "extensions/*",
+    "themes/*"
+  ],
+  "type": "module",
+  "scripts": {
+    "dev": "evershop dev",
+    "start": "evershop start",
+    "start:debug": "evershop start --debug",
+    "build": "evershop build --skip-minify",
+    "setup": "evershop install",
+    "seed": "evershop seed"
+  }
+}
