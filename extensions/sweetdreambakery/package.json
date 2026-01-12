@@ -1,0 +1,19 @@
+{
+  "name": "sweetdreambakery_theme",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "compile": "rimraf dist ./tsconfig.tsbuildinfo && tsc -b"
+  },
+  "devDependencies": {
+    "rimraf": "^6.1.2"
+  },
+  "peerDependencies": {
+    "@evershop/evershop": "^2.1.0",
+    "typescript": "^5.8.3"
+  }
+}
