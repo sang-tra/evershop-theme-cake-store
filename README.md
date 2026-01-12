@@ -68,8 +68,7 @@ npm run start
 
 - Before starting in production, build the theme assets:
 ```
-cd themes/sweetdreambakery
-npm run build
+npm run compile --workspace=sweetdreambakery_theme
 ```
 - Then start EverShop in production mode from the project root.
 
